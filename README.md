@@ -26,7 +26,7 @@ I spent over 2 hours trying to figure out the error while to testing my BOOKEY f
 
 Finished the Semantic HTML course and started Meeting Web #a11y Guidelines! 
 Did you know we have caption tag for the title of a table?
-With role="img" and <title> we can also make #svg accessible?
+With role="img" and title we can also make #svg accessible?
 Updates PWA with BooKey: I encountered a blocker
 
 ### NOTE
@@ -36,4 +36,4 @@ I just installed it on my phone using "add to home screen" ft, but I got an erro
 
 # Day 3&4
 Started the Practical #html5 course, coding along with instructor to build an online store!
-I just learned that <header> can l be used more than once! Float and Clear became more clearer and I'm not even done with module 3!
+I just learned that header can l be used more than once! Float and Clear became more clearer and I'm not even done with module 3!
