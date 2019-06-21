@@ -22,4 +22,14 @@ I also started learning about the *web manifest* working towards making **Bookey
 
 I spent over 2 hours trying to figure out the error while to testing my BOOKEY for installablity without knowing the I provided the wrong path as the _src_ of _icons_ for andriod display :)
 
+## DAY 2
 
+Finished the Semantic HTML course and started Meeting Web #a11y Guidelines! 
+Did you know we have caption tag for the title of a table?
+With role="img" and <title> we can also make #svg accessible?
+Updates PWA with BooKey: I encountered a blocker
+
+### NOTE
+
+I need to study more on manifest events
+I just installed it on my phone using "add to home screen" ft, but I got an error from GitHub when trying to access the page. What'd be the cause? 
