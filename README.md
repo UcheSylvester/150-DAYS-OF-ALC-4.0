@@ -34,6 +34,17 @@ Updates PWA with BooKey: I encountered a blocker
 I need to study more on manifest events
 I just installed it on my phone using "add to home screen" ft, but I got an error from GitHub when trying to access the page. What'd be the cause? 
 
-# Day 3&4
+## Day 3&4
 Started the Practical #html5 course, coding along with instructor to build an online store!
 I just learned that header can l be used more than once! Float and Clear became more clearer and I'm not even done with module 3!
+
+## Day 5&6
+Continued with the practical #html5 course, taking my time to fully understand #APIs like local storage and GeoLocation. HTML5 is way more than what I thought it was! 🥰😍
+
+## Day 7
+Just completed the Practical #HTML5 course! Thanks @gillcleeren for such great content! From semantics, styling, drag&drop, GeoLocation, canvas, #svg! 👌🔥
+I also learned and built a Twitter Bot 😍. Waiting for access to the API
+
+### NOTE: 
+Towards the end of today, my Twitter account was restricted for some reasons I don't know of. So updates on my process will be documented here. To be shared later when I regain access to my account. *Learing Continues!*
+
