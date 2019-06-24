@@ -52,3 +52,6 @@ Towards the end of today, my Twitter account was restricted for some reasons I d
 Today, I decided to take a break and retake my HTML5 Skill IQ test, and guess what? I am now a verified **HTML5 Expert** *by Pluralsight!* Moving from a proficient score *(167)* to an expert score *(242)* in just 8 days is pure prove that with **commiment, determination and Grace, nothing is impossible!**
 
 Thank you so much *Google Africa*, *Andela* and *Pluralsight* for this wonderful opportunity to level up my web development skills towards becoming world class! I can't wait for what the future holds! #LearningContinues...!!
+
+![before](SKILLSIQ/before.PNG)
+![after](SKILLSIQ/after.PNG)
