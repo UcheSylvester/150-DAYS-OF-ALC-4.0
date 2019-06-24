@@ -5,15 +5,15 @@ I've always wanted to learn more about __Progressive Web Apps__ so after setting
 
 ### Lessons
 PWAs should be: 
-_Responsive_
-_Work offline_
-_App-like Interaction_
-_Fresh_
-_safe_
-_Discoverable_
-_Re-engageable_
-_Installable_
-_Linkable_
+* _Responsive_
+* _Work offline_
+* _App-like Interaction_
+* _Fresh_
+* _safe_
+* _Discoverable_
+* _Re-engageable_
+* _Installable_
+* _Linkable_
 
 I also started learning about the *web manifest* working towards making **Bookey** installable! :)
 
