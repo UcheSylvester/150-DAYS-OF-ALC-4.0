@@ -17,7 +17,7 @@ PWAs should be:
 
 I also started learning about the *web manifest* working towards making **Bookey** installable! :)
 
-### RESOURCES/ FUN FACTS:
+#### RESOURCES/ FUN FACTS:
 [FaviconGenerator](https://realfavicongenerator.net/) is used to generate favicons and _manifest.json_ files for making a web app installable!
 
 I spent over 2 hours trying to figure out the error while to testing my BOOKEY for installablity without knowing the I provided the wrong path as the _src_ of _icons_ for andriod display :)
