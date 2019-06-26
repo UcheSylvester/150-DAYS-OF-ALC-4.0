@@ -63,4 +63,7 @@ Also, in my bid to understand more about audio and video on the web, I started t
 I believe I can do that 💪💪
 
 #### NOTE:
-I have made a commitment to finally completing my *Zero To Mastery Course on Udemy* within the period of this #150DaysOfALC4 challenge. It's gonna be one hell of a ride for me but I'll scarce through, God willing... 💪💪
+I'm also committing to finally completing 2 of my *udemy courses*
+* *Build a Quiz App with HTML, CSS and JavaScript* 
+* *Complete Web Developer in 2019: Zero To Mastery*
+within this period of #150DaysOfALC4 challenge. It's gonna be one hell of a ride for me but I'll scarce through, God willing... 💪💪
