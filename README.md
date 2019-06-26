@@ -55,3 +55,12 @@ Thank you so much *Google Africa*, *Andela* and *Pluralsight* for this wonderful
 
 ![before](SKILLSIQ/before.PNG)
 ![after](SKILLSIQ/after.PNG)
+
+## DAY 9 & 10
+These two days were more of practical days for me. I started off building an [Issue Tracker](https://github.com/UcheSylvester/Issue-Tracker) to help track my issues with code (pun intended 😸) and also completed my [Task Manager](https://github.com/UcheSylvester/Task-Manager) APP (I still need to be able to delete task and mark task as completed). I also initialized an empty repo for yet another project [GITHUB_USERS](https://github.com/UcheSylvester/GITHUB_USERS) for viewing github users profiles (still planning out the projects for it's contents)
+
+Also, in my bid to understand more about audio and video on the web, I started the *HTML5 Audio, Video, and WebRTC course by Mark Boas* and it's been interesting so far. I hope to learn as much as possible, build some mini projects, complete the *HTML5 Path* courses before DAY 14. 
+I believe I can do that 💪💪
+
+#### NOTE:
+I have made a commitment to finally completing my *Zero To Mastery Course on Udemy* within the period of this #150DaysOfALC4 challenge. It's gonna be one hell of a ride for me but I'll scarce through, God willing... 💪💪
