@@ -67,3 +67,16 @@ I'm also committing to finally completing 2 of my *udemy courses*
 * *Build a Quiz App with HTML, CSS and JavaScript* 
 * *Complete Web Developer in 2019: Zero To Mastery*
 within this period of #150DaysOfALC4 challenge. It's gonna be one hell of a ride for me but I'll scarce through, God willing... 💪💪
+
+## DAY 11 & 12 
+
+Still on my *HTML5 Audio, Video, and WebRTC course by Mark Boas*, learning so basic things and how to properly integrate video and audio to web apps. I also learned of various formats of media and dynamically adding media via javascript. I also created a helper function to help add multiple attributes at once 😄💪
+
+// for setting multiple attributes
+function setAttributes(element, attributes) {
+    for(let key in attributes) {
+        element.setAttribute(key, attributes[key])  //calling the setAttribute passing in key(attribute to set) and values
+    }
+}
+
+I also started the *Build A Quiz app* course on Udemy and it's been funny really. Just some basic stuff and project set up 😄
