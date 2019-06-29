@@ -80,3 +80,10 @@ function setAttributes(element, attributes) {
 }
 
 I also started the *Build A Quiz app* course on Udemy and it's been funny really. Just some basic stuff and project set up 😄
+
+## DAY 13 & 14
+
+Network around here has been messy lately, even with etisalat (which is expensive btw) and I haven't been able to get much done seriously, still learning HTML5 Media.
+On the brighter side, I created a repo for another project (God save me the way I'm creating repos for everything these days :sweat_smile:), it's gonna be a **browser based media player** that allows you to drag musics and video to the browser and watch it play! Tho I haven't started it yet, I really excited about it
+
+I look forward to the meetup today so I can meet with other amazing learner, see what they are all working and learning them as well. I will also be having my first facilitating session today, I am a bit nervous seriously, but I believe I will pull through. Expect updates later 😄
