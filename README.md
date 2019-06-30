@@ -98,6 +98,10 @@ This reminds me so much of when I started about a year ago as an absolute beginn
 The dedication I saw in learners today was golden:heart_eyes:
 Thank you so much Google, Andela and Pluralsight for this amazing opportunity! :pray::pray:
 
+## DAY 13
 
+I just finished the *Building on HTML5: Optimizing for Data, Communication and Offline Apps* by *Craig Shoemaker* a lot of content and lessons learned. I'm more interested in the GeoLocation API and I hope to use it in build apps with amazing features!
+
+I also learned about the *Web Socket* and how it makes loading pages much more faster, *Service Workers* for offline apps (I need to study more on this)
 
 
