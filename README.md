@@ -106,4 +106,8 @@ I also learned about the *Web Socket* and how it makes loading pages much more f
 
 At these stage I feel a lot more comfortable with *HTML5* than when I started this program and I think I can now move forward to learning *CSS* 💪 💪
 
+Finished up the *CSS POSITIONING* course and it's really amazing how much easier GRID and FLEXBOX made writing CSS for us. Learning that not so long ago, we had to consider width, position and margins to properly align and justify contents to the center is really fansinating!! The web is growing!!
 
+I also started learning **LESS** with the *LESS: Getting Started* course. I really love the flexibility LESS offers like defining variables, Variables Maps (for creating *objects* of variables with key value pairs just like in JS!), Functions like *lighten* and *darken* and nesting for easier flexibility! Can I say that LESS helps us right *CODES IN CSS ?* It's really an amazing too!
+
+I'm taking a break right now to get to work on some projects, more updates coming up tomorrow! 💪
