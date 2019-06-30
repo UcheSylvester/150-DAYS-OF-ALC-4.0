@@ -56,7 +56,7 @@ Thank you so much *Google Africa*, *Andela* and *Pluralsight* for this wonderful
 ![before](SKILLSIQ/before.PNG)
 ![after](SKILLSIQ/after.PNG)
 
-## DAY 9 & 10
+## DAY 9
 These two days were more of practical days for me. I started off building an [Issue Tracker](https://github.com/UcheSylvester/Issue-Tracker) to help track my issues with code (pun intended 😸) and also completed my [Task Manager](https://github.com/UcheSylvester/Task-Manager) APP (I still need to be able to delete task and mark task as completed). I also initialized an empty repo for yet another project [GITHUB_USERS](https://github.com/UcheSylvester/GITHUB_USERS) for viewing github users profiles (still planning out the projects for it's contents)
 
 Also, in my bid to understand more about audio and video on the web, I started the *HTML5 Audio, Video, and WebRTC course by Mark Boas* and it's been interesting so far. I hope to learn as much as possible, build some mini projects, complete the *HTML5 Path* courses before DAY 14. 
@@ -68,7 +68,7 @@ I'm also committing to finally completing 2 of my *udemy courses*
 * *Complete Web Developer in 2019: Zero To Mastery*
 within this period of #150DaysOfALC4 challenge. It's gonna be one hell of a ride for me but I'll scarce through, God willing... 💪💪
 
-## DAY 11 & 12 
+## DAY 10 
 
 Still on my *HTML5 Audio, Video, and WebRTC course by Mark Boas*, learning so basic things and how to properly integrate video and audio to web apps. I also learned of various formats of media and dynamically adding media via javascript. I also created a helper function to help add multiple attributes at once
 
@@ -81,10 +81,23 @@ function setAttributes(element, attributes) {
 
 I also started the *Build A Quiz app* course on Udemy and it's been funny really. Just some basic stuff and project set up 😄
 
-## DAY 13 & 14
+## DAY 11
 
 Network around here has been messy lately, even with etisalat (which is expensive btw) and I haven't been able to get much done seriously, still learning HTML5 Media. 
 
 On the brighter side, I created a repo for another project (God save me the way I'm creating repos for everything these days :sweat_smile:), it's gonna be a **browser based media player** that allows you to drag musics and video to the browser and watch it play! Tho I haven't started it yet, I really excited about it
 
 I look forward to the meetup today so I can meet with other amazing learner, see what they are all working and learning them as well. I will also be having my first facilitating session today, I am a bit nervous seriously, but I believe I will pull through. Expect updates later 😄
+
+## DAY 12
+
+Today I had my very first code facilitation session/experience at the #ALC4 meetup 1.0 held at the Rad5Tech Hub, Aba, and it was better than I thought.
+Introduced learners to learning with pluralsight and web development fundamentals, and it felt wonderful! :heart_eyes::fire:
+
+This reminds me so much of when I started about a year ago as an absolute beginner with ALC 3.0! It's really amazing how much one can grow in such a short period of time and we've not even started!
+The dedication I saw in learners today was golden:heart_eyes:
+Thank you so much Google, Andela and Pluralsight for this amazing opportunity! :pray::pray:
+
+
+
+
