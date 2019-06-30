@@ -104,4 +104,6 @@ I just finished the *Building on HTML5: Optimizing for Data, Communication and O
 
 I also learned about the *Web Socket* and how it makes loading pages much more faster, *Service Workers* for offline apps (I need to study more on this)
 
+At these stage I feel a lot more comfortable with *HTML5* than when I started this program and I think I can now move forward to learning *CSS* 💪 💪
+
 
