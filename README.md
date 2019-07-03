@@ -46,7 +46,7 @@ Just completed the Practical #HTML5 course! Thanks @gillcleeren for such great c
 I also learned and built a Twitter Bot 😍. Waiting for access to the API
 
 ### NOTE: 
-Towards the end of today, my Twitter account was restricted for some reasons I don't know of. So updates on my process will be documented here. To be shared later when I regain access to my account. *Learing Continues!*
+Towards the end of today, my Twitter account was restricted for some reasons I don't know of. So updates on my process will be documented here. To be shared later when I regain access to my account. *Learning Continues!*
 
 ## Day 8
 Today, I decided to take a break and retake my HTML5 Skill IQ test, and guess what? I am now a verified **HTML5 Expert** *by Pluralsight!* Moving from a proficient score *(167)* to an expert score *(242)* in just 8 days is pure prove that with **commitment, determination and Grace, nothing is impossible!**
