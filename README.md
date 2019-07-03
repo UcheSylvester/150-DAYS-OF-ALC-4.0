@@ -20,7 +20,7 @@ I also started learning about the *web manifest* working towards making **Bookey
 #### RESOURCES/ FUN FACTS:
 [FaviconGenerator](https://realfavicongenerator.net/) is used to generate favicons and _manifest.json_ files for making a web app installable!
 
-I spent over 2 hours trying to figure out the error while to testing my BOOKEY for installablity without knowing the I provided the wrong path as the _src_ of _icons_ for andriod display :)
+I spent over 2 hours trying to figure out the error while to testing my BOOKEY for installablity without knowing the I provided the wrong path as the _src_ of _icons_ for android display :)
 
 ## DAY 2
 
@@ -49,7 +49,7 @@ I also learned and built a Twitter Bot 😍. Waiting for access to the API
 Towards the end of today, my Twitter account was restricted for some reasons I don't know of. So updates on my process will be documented here. To be shared later when I regain access to my account. *Learing Continues!*
 
 ## Day 8
-Today, I decided to take a break and retake my HTML5 Skill IQ test, and guess what? I am now a verified **HTML5 Expert** *by Pluralsight!* Moving from a proficient score *(167)* to an expert score *(242)* in just 8 days is pure prove that with **commiment, determination and Grace, nothing is impossible!**
+Today, I decided to take a break and retake my HTML5 Skill IQ test, and guess what? I am now a verified **HTML5 Expert** *by Pluralsight!* Moving from a proficient score *(167)* to an expert score *(242)* in just 8 days is pure prove that with **commitment, determination and Grace, nothing is impossible!**
 
 Thank you so much *Google Africa*, *Andela* and *Pluralsight* for this wonderful opportunity to level up my web development skills towards becoming world class! I can't wait for what the future holds! #LearningContinues...!!
 
@@ -92,7 +92,7 @@ I look forward to the meetup today so I can meet with other amazing learner, see
 ## DAY 13
 
 Today I had my very first code facilitation session/experience at the #ALC4 meetup 1.0 held at the Rad5Tech Hub, Aba, and it was better than I thought.
-Introduced learners to learning with pluralsight and web development fundamentals, and it felt wonderful! :heart_eyes::fire:
+Introduced learners to learning with Pluralsight and web development fundamentals, and it felt wonderful! :heart_eyes::fire:
 
 This reminds me so much of when I started about a year ago as an absolute beginner with ALC 3.0! It's really amazing how much one can grow in such a short period of time and we've not even started!
 The dedication I saw in learners today was golden:heart_eyes:
@@ -106,7 +106,7 @@ I also learned about the *Web Socket* and how it makes loading pages much more f
 
 At these stage I feel a lot more comfortable with *HTML5* than when I started this program and I think I can now move forward to learning *CSS* 💪 💪
 
-Finished up the *CSS POSITIONING* course and it's really amazing how much easier GRID and FLEXBOX made writing CSS for us. Learning that not so long ago, we had to consider width, position and margins to properly align and justify contents to the center is really fansinating!! The web is growing!!
+Finished up the *CSS POSITIONING* course and it's really amazing how much easier GRID and FLEXBOX made writing CSS for us. Learning that not so long ago, we had to consider width, position and margins to properly align and justify contents to the center is really fascinating!! The web is growing!!
 
 I also started learning **LESS** with the *LESS: Getting Started* course. I really love the flexibility LESS offers like defining variables, Variables Maps (for creating *objects* of variables with key value pairs just like in JS!), Functions like *lighten* and *darken* and nesting for easier flexibility! Can I say that LESS helps us right *CODES IN CSS ?* It's really an amazing too!
 
