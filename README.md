@@ -111,3 +111,26 @@ Finished up the *CSS POSITIONING* course and it's really amazing how much easier
 I also started learning **LESS** with the *LESS: Getting Started* course. I really love the flexibility LESS offers like defining variables, Variables Maps (for creating *objects* of variables with key value pairs just like in JS!), Functions like *lighten* and *darken* and nesting for easier flexibility! Can I say that LESS helps us right *CODES IN CSS ?* It's really an amazing too!
 
 I'm taking a break right now to get to work on some projects, more updates coming up tomorrow! 💪
+
+
+## DAY 15 && 16 && 17
+
+For the past 3 days, I
+
+* Finished LESS: Getting Started course: learned rulesets, mixins and ways LESS makes writing CSS so easy! It's gonna take some practice to get used to it
+* I also started the ZTM course and finished the HTML section
+* Also started *Responsive Websites with Bootstrap 3* course on Pluralsight
+
+## DAY 18
+
+Today was great really! I Learned CSS GRID from The Complete Web Developer *Zero To Mastery Course* and spent quality time with my very good friend Iroleh Vincent, learnin about Scrum, Project Management tools like Pivotal Tracker and Trello, sharing ideas and resources! I also learned about IBM Internship program for Africans and I am surely going to apply! 💪
+
+
+## DAY 19
+
+Today, I came back and started my learning with trying to get *Drag n' Play* working but unfortunately, I can't get the path of the dragged file due to security reasons. I may have to restructure the project to include and upload feature or sth. Still brainstorming! 
+
+I headed over to pluralsight and skimmed through the *Responsive Website with Bootstrap 3 Course*, I may need to revisit it to get a better understanding of responsive layout and structures. 
+
+Did a little work on my CV (I really needed to), completed my application to the IBM internship program (fingers crossed 🤞) and started learning on the IBM Platform (A prerequisite for the job). I really hope this works out! 🙏 🙏
+
